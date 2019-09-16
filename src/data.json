@@ -1,0 +1,100 @@
+{
+  "users": [
+    {
+      "email": "test1@ns8.com",
+      "password": "********",
+      "phoneNumber": "1234567890",
+      "events": [
+        {
+          "type": "LOGIN",
+          "created": 1568161446
+        },
+        {
+          "type": "LOGIN",
+          "created": 1568296329
+        },
+        {
+          "type": "LOGIN",
+          "created": 1568293870
+        },
+        {
+          "type": "LOGIN",
+          "created": 1568264619
+        }
+      ]
+    },
+    {
+      "email": "test2@ns8.com",
+      "password": "********",
+      "phoneNumber": "1234567890",
+      "events": [
+        {
+          "type": "LOGIN",
+          "created": 1568234293
+        },
+        {
+          "type": "LOGIN",
+          "created": 1568210312
+        },
+        {
+          "type": "LOGIN",
+          "created": 1568191292
+        },
+        {
+          "type": "LOGIN",
+          "created": 1568264610
+        },
+        {
+          "type": "LOGIN",
+          "created": 1568260503
+        },
+        {
+          "type": "LOGIN",
+          "created": 1568243628
+        },
+        {
+          "type": "LOGIN",
+          "created": 1568254977
+        }
+      ]
+    },
+    {
+      "email": "test3@ns8.com",
+      "password": "********",
+      "phoneNumber": "1234567890",
+      "events": [
+        {
+          "type": "LOGIN",
+          "created": 1568176623
+        },
+        {
+          "type": "LOGIN",
+          "created": 1568174193
+        },
+        {
+          "type": "LOGIN",
+          "created": 1568196319
+        },
+        {
+          "type": "LOGIN",
+          "created": 1568176459
+        },
+        {
+          "type": "LOGIN",
+          "created": 1568291420
+        }
+      ]
+    },
+    {
+      "email": "test4@ns8.com",
+      "password": "********",
+      "phoneNumber": "1234567890",
+      "events": [
+        {
+          "type": "LOGIN",
+          "created": 1568176620
+        }
+      ]
+    }
+  ]
+}
